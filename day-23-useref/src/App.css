@@ -1,0 +1,75 @@
+.otp-container {
+  width: 350px;
+  margin: 50px auto;
+  padding: 30px;
+  text-align: center;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  background: white;
+}
+
+.otp-box {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin: 30px 0;
+}
+
+.otp-box input {
+  width: 60px;
+  height: 60px;
+  font-size: 28px;
+  text-align: center;
+  border: 2px solid #555;
+  border-radius: 10px;
+}
+.login-container {
+  width: 350px;
+  margin: 70px auto;
+  padding: 30px;
+  text-align: center;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  background: white;
+}
+
+.login-container input {
+  width: 90%;
+  padding: 12px;
+  font-size: 16px;
+  border: 2px solid #ccc;
+  border-radius: 6px;
+}
+
+.login-container button {
+  width: 100%;
+  padding: 12px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+}
+
+.login-section {
+  margin-top: 50px;
+}
+
+.login-container {
+  width: 350px;
+  margin: 50px auto;   /* Space from OTP card */
+  padding: 30px;
+  text-align: center;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  background: white;
+}
+.title {
+  text-align: center;
+  color:#87CEEB;
+  font-size: 36px;
+  font-weight: bold;
+  margin: 30px 0;
+}

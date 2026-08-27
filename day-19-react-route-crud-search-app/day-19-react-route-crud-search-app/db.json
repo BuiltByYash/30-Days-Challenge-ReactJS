@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "name": "Yash Pawar",
+      "email": "yash@gmail.com",
+      "password": "123",
+      "role": "admin",
+      "id": "U_qcxtGV98E"
+    },
+    {
+      "name": "Riya Sharma",
+      "email": "riya@gmail.com",
+      "password": "123",
+      "role": "user",
+      "id": "yQ3--ZDdAgw"
+    },
+    {
+      "name": "Isha Malik",
+      "email": "isha@gmail.com",
+      "password": "123",
+      "role": "user",
+      "id": "re5fC0Suu8k"
+    },
+    {
+      "name": "Raj Sharma",
+      "email": "raj@gmail.com",
+      "password": "123",
+      "role": "user",
+      "id": "6E2nBfLWW7k"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

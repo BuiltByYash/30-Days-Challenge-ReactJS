@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "Yash Pawar",
+      "email": "yash@gmail.com",
+      "password": "123",
+      "role": "admin"
+    },
+    {
+      "name": "Riya Sharma",
+      "email": "riya@gmail.com",
+      "password": "123",
+      "role": "user"
+    }
+  ]
+}

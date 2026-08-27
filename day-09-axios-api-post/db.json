@@ -1,0 +1,58 @@
+{
+  "foods": [
+    {
+      "id": "1",
+      "customerName": "Yash Pawar",
+      "foodName": "Veg Biryani",
+      "quantity": 2,
+      "price": 300,
+      "paymentMethod": "UPI",
+      "orderStatus": "Preparing"
+    },
+    {
+      "id": "2",
+      "customerName": "Swapnil Gaikwad",
+      "foodName": "Paneer Pizza",
+      "quantity": 1,
+      "price": 450,
+      "paymentMethod": "Cash",
+      "orderStatus": "Delivered"
+    },
+    {
+      "id": "3",
+      "customerName": "Payal Londhe",
+      "foodName": "Masala Dosa",
+      "quantity": 3,
+      "price": 360,
+      "paymentMethod": "Card",
+      "orderStatus": "Preparing"
+    },
+    {
+      "id": "4",
+      "customerName": "Saniya Pathan",
+      "foodName": "Chicken Burger",
+      "quantity": 2,
+      "price": 400,
+      "paymentMethod": "UPI",
+      "orderStatus": "Out for Delivery"
+    },
+    {
+      "id": "5",
+      "customerName": "Aditya Patole",
+      "foodName": "Pasta",
+      "quantity": 1,
+      "price": 250,
+      "paymentMethod": "Cash",
+      "orderStatus": "Delivered"
+    },
+    {
+      "id": "6",
+      "customerName": "Kanif Kumbhar",
+      "foodName": "Paneer Masala",
+      "quantity": 1,
+      "price": 230,
+      "paymentMethod": "UPI",
+      "orderStatus": "Out for Delivery"
+    }
+  ]
+}

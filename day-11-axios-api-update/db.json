@@ -1,0 +1,50 @@
+{
+  "foods": [
+    {
+      "id": "1",
+      "customerName": "Yash Pawar",
+      "foodName": "Veg Biryani",
+      "quantity": 2,
+      "price": 300,
+      "paymentMethod": "UPI",
+      "orderStatus": "Preparing"
+    },
+    {
+      "id": "2",
+      "customerName": "Swapnil Gaikwad",
+      "foodName": "Paneer Pizza",
+      "quantity": 1,
+      "price": 450,
+      "paymentMethod": "Cash",
+      "orderStatus": "Delivered"
+    },
+    {
+      "id": "3",
+      "customerName": "Payal Londhe",
+      "foodName": "Masala Dosa",
+      "quantity": 3,
+      "price": "359",
+      "paymentMethod": "Card",
+      "orderStatus": "Preparing"
+    },
+    {
+      "id": "4",
+      "customerName": "Saniya Pathan",
+      "foodName": "Chicken Burger",
+      "quantity": 2,
+      "price": "399",
+      "paymentMethod": "UPI",
+      "orderStatus": "Out for Delivery"
+    },
+    {
+      "id": "5",
+      "customerName": "Viraj Burase",
+      "foodName": "Samosa",
+      "quantity": "25",
+      "price": "500",
+      "paymentMethod": "UPI",
+      "orderStatus": "Out for Delivery"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

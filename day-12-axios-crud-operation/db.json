@@ -1,0 +1,23 @@
+{
+  "patients": [
+    {
+      "id": "NB-VWCbTZOk",
+      "patientName": "Amit Shah",
+      "age": 24,
+      "disease": "Fever",
+      "doctorName": "Dr. Sharma",
+      "roomNumber": "103",
+      "status": "Admitted"
+    },
+    {
+      "id": "OfcTgInfGUE",
+      "patientName": "Narendra  Godi",
+      "age": "79",
+      "disease": "Typhoid",
+      "doctorName": "Dr. Kulkarni",
+      "roomNumber": "103",
+      "status": "Under Treatment"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

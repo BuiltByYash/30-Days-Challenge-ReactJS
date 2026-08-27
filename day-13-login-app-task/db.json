@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Yash",
+      "email": "yash@xyz.com",
+      "password": "yash@123",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Swapnil",
+      "email": "swapnil@xyz.com",
+      "password": "swapnil@456",
+      "role": "user"
+    },
+    {
+      "id": 3,
+      "name": "Viraj",
+      "email": "viraj@xyz.com",
+      "password": "viraj@123",
+      "role": "user"
+    },
+    {
+      "id": 4,
+      "name": "Rohit",
+      "email": "rohit@xyz.com",
+      "password": "rohit@123",
+      "role": "user"
+    },
+    {
+      "id": 5,
+      "name": "Harsh",
+      "email": "harsh@xyz.com",
+      "password": "harsh@123",
+      "role": "user"
+    }
+  ]
+}

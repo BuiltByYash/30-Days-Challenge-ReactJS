@@ -1,0 +1,41 @@
+form table {
+  margin: auto;
+}
+
+form td {
+  padding: 10px;
+}
+
+form td:first-child {
+  width: 120px;
+  text-align: right;
+  font-weight: bold;
+}
+
+form input,
+form textarea {
+  width: 350px;
+  padding: 10px;
+  font-size: 16px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+}
+
+form textarea {
+  height: 100px;
+  resize: none;
+}
+
+form button {
+  width: 150px;
+  padding: 10px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+form button:hover {
+  background: #0056b3;
+}
